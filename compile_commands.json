@@ -1,0 +1,15 @@
+[
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Wall",
+            "-Wextra",
+            "-pedantic",
+            "-std=gnu11",
+            "example.c"
+        ],
+        "directory": "...FULL_PATH.../c_utils/",
+        "file": "example.c"
+    }
+]
